@@ -845,7 +845,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
   },
   heroTitle: {
-    fontSize: 48,
+    fontSize: 46,
     fontWeight: 'bold',
     color: 'white',
     textAlign: 'center',
