@@ -1,0 +1,11 @@
+{
+  "name": "tech-company-portfolio-fullstack",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "expo start --cwd frontEnd",
+    "android": "expo run:android --cwd frontEnd",
+    "ios": "expo run:ios --cwd frontEnd",
+    "web": "expo start --web --cwd frontEnd"
+  }
+}
