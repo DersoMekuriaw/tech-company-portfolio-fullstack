@@ -872,7 +872,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(255,255,255,0.05)',
     padding: 20,
     borderRadius: 20,
-    gap: 20,
+    gap: 18,
   },
   statHeroItem: {
     alignItems: 'center',
